@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tbffastapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1061F26006184A3388537BB993DD038B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A85DEE38DBA748B1A675AA9DCD83E73C }}
